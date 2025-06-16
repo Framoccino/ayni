@@ -1,0 +1,16 @@
+{
+  "uuid": "anon-9834321",
+  "consent": ["gps", "sleep", "steps"],
+  "joined": "2024-06-01",
+  "tokens_earned": 46.2,
+  "talent": "visual_storytelling",
+  "marketplace_balance": 22.0,
+  "data_usage_logs": [
+    {
+      "type": "gps",
+      "used_by": "Urban Wellness AI",
+      "tokens": 3.5,
+      "date": "2024-06-12"
+    }
+  ]
+}
